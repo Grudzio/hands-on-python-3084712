@@ -19,3 +19,6 @@ for i in range(5):
     print(i)
 
 # enumerate
+
+for index, value in enumerate(NAMES):
+    print(index,value)
